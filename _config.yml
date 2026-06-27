@@ -23,13 +23,13 @@ repository               : "El-Erzoah/el-erzoah.github.io"
 author:
   # Biographic information
   avatar           : "Photo.jpeg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "El Erzoah"
+  pronouns         : "He/Him"  # example: "she/her"  
+  bio              : "PhD Student at George Mason University"
+  location         : "Fairfax, Virginia, USA"
+  employer         : "George Mason University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eerzoah@gmu.edu" 
 
   # Academic websites
   academia         : # URL
