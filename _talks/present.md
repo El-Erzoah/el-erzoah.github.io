@@ -1,11 +1,10 @@
 ---
-title: "Parameter Identifiability Using PINNs and KANs"
+title: "Optimal Control of Online Game Addiction: An SEIR Model"
 collection: talks
 type: "Talk"
-venue: "STREETS Workshop, George Mason University"
-location: "Fairfax, VA"
+venue: "Graduate Seminar, George Mason University"
+location: "Fairfax, VA, USA"
 date: 2026-09-25
 slides: /files/Seminar1.pdf
 ---
 
-I presented research using PINNs and KANs.
