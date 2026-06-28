@@ -20,6 +20,7 @@ Research Interests
 Research Focus
 ======
 My current work includes:
+
 -Modeling MAPK signaling pathways using differential equations and machine learning
 -Parameter estimation using Physics-Informed Neural Networks (PINNs) and Kolmogorov–Arnold Networks (KANs)
 -Graph-theoretic analysis of biological networks
