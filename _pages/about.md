@@ -21,13 +21,13 @@ Research Focus
 ======
 My current work includes:
 
--Modeling MAPK signaling pathways using differential equations and machine learning
--Parameter estimation using Physics-Informed Neural Networks (PINNs) and Kolmogorov–Arnold Networks (KANs)
--Graph-theoretic analysis of biological networks
+- Modeling MAPK signaling pathways using differential equations and machine learning
+- Parameter estimation using Physics-Informed Neural Networks (PINNs) and Kolmogorov–Arnold Networks (KANs)
+- Graph-theoretic analysis of biological networks
 
 News
 ======
-**September 25,2026** - Giving a talk at STREETS Workshop, George Mason University: Parameter identifiability using PINNs and KANs
+**September 25,2026** - Giving a talk at STREETS Workshop, George Mason University: Parameter identifiability using PINNs and KANs.
 
-**June 3, 2026** — Presented at the ICM 2026 Satellite Conference, Morgan State University: Data-driven integrated frameworks for modeling protein networks
+**June 3, 2026** — Presented at the ICM 2026 Satellite Conference, Morgan State University: Data-driven integrated frameworks for modeling protein networks.
 
