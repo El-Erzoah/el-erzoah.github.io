@@ -8,4 +8,4 @@ date: 2026-09-25
 slides: /files/Seminar1.pdf
 ---
 
-I presented research on parameter identifiability using PINNs and KANs1.
+I presented research using PINNs and KANs.
