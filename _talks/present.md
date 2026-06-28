@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 venue: "Graduate Seminar, George Mason University"
 location: "Fairfax, VA, USA"
-date: 2026-09-25
+date: November 13, 2024
 slides: /files/Seminar1.pdf
 ---
 
