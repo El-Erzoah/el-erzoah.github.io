@@ -3,31 +3,16 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-<h2></h2>
 
 {% for post in site.talks reversed %}
 
-<div style="margin-bottom: 2em;">
+---
 
-  <!-- Title -->
-  <p style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">
-    {{ post.title }}
-  </p>
+### {{ post.title }}
 
-  <!-- Meta line -->
-  <p style="margin: 0; color: #555;">
-    {{ post.type }}, {{ post.venue }} — {{ post.location }}, {{ post.date | date: "%B %d, %Y" }}
-  </p>
+**{{ post.venue }}**  
+{{ post.date | date: "%B %d, %Y" }}
 
-  <!-- Slides link -->
-  {% if post.slides %}
-    <p>
-      <a href="{{ post.slides }}">Slides</a>
-    </p>
-  {% endif %}
-
-</div>
-
-<hr>
+{{ post.content }}
 
 {% endfor %}
