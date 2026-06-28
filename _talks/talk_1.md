@@ -1,13 +1,17 @@
 
+```yaml
 ---
-title: "Parameter Estimation Using PINNs and KANs"
-collection: research
-permalink: /research/pinns
-date: 2026-06-01
+title: "Parameter Identifiability Using PINNs and KANs"
+collection: talks
+type: "Talk"
+venue: "STREETS Workshop, George Mason University"
+location: "Fairfax, VA"
+date: 2026-09-25
+slides: /files/Seminar1.pdf
 ---
 
-This work investigates inverse problems in systems biology using Physics-Informed Neural Networks and Kolmogorov–Arnold Networks.
-You can download the presentation slide here:
+I presented research on parameter identifiability in biological dynamical systems using Physics-Informed Neural Networks (PINNs) and Kolmogorov–Arnold Networks (KANs).
+```
 
 [**📄 Slides**](/files/Seminar1.pdf)
 
