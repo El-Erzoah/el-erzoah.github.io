@@ -36,11 +36,12 @@
     <p class="archive__item-excerpt" itemprop="description">
     {{ post.type }}, {{ post.venue }} — {{ post.location }}, {{ post.date | date: "%B %d, %Y" }}
     </p>
-    {% endif %}    {% if post.slides %}
+    {% endif %}  
+    {% if post.slides %}
     <p class="archive__item-excerpt">
     <a href="{{ post.slides }}">Slides</a>
     </p>
-    {  % endif %}
+    {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
