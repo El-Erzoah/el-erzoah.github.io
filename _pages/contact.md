@@ -4,7 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
 
 **Email:** eerzoah@gmu.edu
 
