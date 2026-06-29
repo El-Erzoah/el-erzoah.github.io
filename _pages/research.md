@@ -4,12 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
-Describe your research here.
-
 ## Current Projects
+These are the projects are currently working on:
 
-- Modeling MAPK signaling pathways
-- Parameter estimation using PINNs and KANs
-- Graph-theoretic analysis of biological networks
+- **Modeling MAPK signaling pathways**
+- **Graph-theoretic analysis of biological networks**
+- **Parameter estimation using PINNs and KANs**
