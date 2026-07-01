@@ -32,16 +32,11 @@ Contact
           George Mason University,
           4400 University Drive,
           Fairfax, VA 22030
-
 **Office:** Exploratory Hall
-
 **Mobile Number** +1 5715649646
-
 **📧 Email::** eerzoah@gmu.edu
-
-**GitHub:** https://github.com/El-Erzoah
-
-**LinkedIn** https://linkedin.com/in/Elisha Erzoah
+**🐙 GitHub:** https://github.com/El-Erzoah
+**💼 LinkedIn:** https://linkedin.com/in/Elisha Erzoah
 
 
 News
