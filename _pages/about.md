@@ -25,6 +25,25 @@ My current work includes:
 - Parameter estimation using Physics-Informed Neural Networks (PINNs) and Kolmogorov–Arnold Networks (KANs)
 - Graph-theoretic analysis of biological networks
 
+Contact
+======
+
+**Mail:** Department of Mathematics,
+          George Mason University,
+          4400 University Drive,
+          Fairfax, VA 22030
+
+**Office:** Exploratory Hall
+
+**Mobile Number** +1 5715649646
+
+**📧 Email::** eerzoah@gmu.edu
+
+**GitHub:** https://github.com/El-Erzoah
+
+**LinkedIn** https://linkedin.com/in/Elisha Erzoah
+
+
 News
 ======
 **September 25,2026** - Giving a talk at STREETS Workshop, George Mason University: Parameter identifiability using PINNs and KANs.
