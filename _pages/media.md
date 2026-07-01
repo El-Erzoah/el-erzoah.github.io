@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Media and Links"
+title: "Academic Gallery"
 permalink: /media/
 author_profile: true
 ---
@@ -13,12 +13,12 @@ Below are selected moments from conferences, teaching, and research activities.
 
   <figure>
     <img src="/images/BEERS_Talks.jpg" onclick="openLightbox(this)">
-    <figcaption>Conference Presentation</figcaption>
+    <figcaption>This picture is from  2026 BEER Symposium held at George Mason University </figcaption>
   </figure>
 
   <figure>
     <img src="/images/Photo.jpeg" onclick="openLightbox(this)">
-    <figcaption>Teaching / Seminar Session</figcaption>
+    <figcaption></figcaption>
   </figure>
 
 </div>
@@ -87,7 +87,3 @@ function closeLightbox() {
 </script>
 
 
-my file is named media.md
-where should i make the changes
-
-how will this be
