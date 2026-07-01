@@ -12,20 +12,22 @@ You can download my current Curriculum Vitae using the link below.
 
 📥 **[Download my CV](/files/cv_erzoah.pdf)**
 
-About Me
-======
+## About Me
+---
+
 I am a doctoral student in Mathematics at George Mason University, conducting research under the supervision of Professor Maria Emelianenko.
 My research lies at the intersection of **mathematical biology**, **mathematical oncology**, and **computational modeling**, with a focus on understanding complex biological systems through data-driven and mechanistic approaches.
 
-Research Interests
-======
+## Research Interests
+---
 - Biological network modeling, with emphasis on the Mitogen-Activated Protein Kinase (MAPK) signaling pathway
 - Systems biology and nonlinear dynamical systems
 - Mathematical modeling of drug resistance in cancer
 - Machine learning methods for biomedical applications
 
-Research Focus
-======
+## Research Focus
+---
+
 My current work includes:
 
 - Modeling MAPK signaling pathways using differential equations and machine learning
@@ -33,9 +35,8 @@ My current work includes:
 - Graph-theoretic analysis of biological networks
 
 
-Contact
-======
-
+## Contact
+---
 **Mail:** Department of Mathematics,
           George Mason University,
           4400 University Drive,
@@ -52,8 +53,8 @@ Contact
 **💼 LinkedIn:** https://linkedin.com/in/Elisha Erzoah
 
 
-News
-======
+## News
+---
 **September 25,2026** - Giving a talk at STREETS Workshop, George Mason University: Parameter identifiability using PINNs and KANs.
 
 **June 3, 2026** — Presented at the ICM 2026 Satellite Conference, Morgan State University: Data-driven integrated frameworks for modeling protein networks.
