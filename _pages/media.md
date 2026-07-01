@@ -12,7 +12,7 @@ Below are selected moments from conferences, teaching, and research activities.
 <div class="gallery">
 
   <figure>
-    <img src="/images/BEER_Talks.jpg" onclick="openLightbox(this)">
+    <img src="/images/BEERS_Talks.jpg" onclick="openLightbox(this)">
     <figcaption>Conference Presentation</figcaption>
   </figure>
 
