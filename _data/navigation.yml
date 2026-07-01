@@ -29,6 +29,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Media and Links"
+    url: /media/
+
   #- title: "Contact"
   # url: /contact/
     
