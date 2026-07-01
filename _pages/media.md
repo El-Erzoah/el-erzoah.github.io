@@ -1,18 +1,13 @@
 ---
 layout: archive
-title: "Academic Activities"
+title: "Media"
 permalink: /media/
 author_profile: true
 ---
 
-## Conferences & Presentations
-
 Here are selected moments from conferences, talks, and academic presentations.
 
----
 
-### Conference Presentations
-
-![Conference 1](/images/BEERS_Talks.heic)
+![Conference 1](/images/BEERS_Talks.jpg)
 
 *Poster presentation at [Conference Name, Year]*
