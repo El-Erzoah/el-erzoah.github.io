@@ -13,7 +13,7 @@ Below are selected moments from conferences, teaching, and research activities.
 
   <figure>
     <img src="/images/BEERS_Talks.jpg" onclick="openLightbox(this)">
-    <figcaption>This picture is from  2026 BEER Symposium held at George Mason University </figcaption>
+    <figcaption>This picture features me at the 2026 BEER Symposium held at George Mason University </figcaption>
   </figure>
 
   <figure>
