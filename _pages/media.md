@@ -1,13 +1,22 @@
 ---
 layout: archive
-title: "Media"
-permalink: /media/
+title: "Academic Gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
-Here are selected moments from conferences, talks, and academic presentations.
+Below are selected moments from conferences, teaching, and research activities.
 
+<div class="gallery">
 
-![Conference 1](/images/BEERS_Talks.jpg)
+  <figure>
+    <img src="/images/BEER_Talks.jpg" alt="Conference Presentation">
+    <figcaption>Conference Presentation</figcaption>
+  </figure>
 
-*Poster presentation at [Conference Name, Year]*
+  <figure>
+    <img src="/images/Photo.jpeg" alt="Teaching / Seminar Session">
+    <figcaption>Teaching / Seminar Session</figcaption>
+  </figure>
+
+</div>
