@@ -37,10 +37,13 @@ Below are selected moments from conferences, teaching, and research activities.
 }
 
 .gallery img {
-  width: 100%;
+  width: 250px;     
+  height: auto;
   border-radius: 10px;
   cursor: pointer;
   transition: transform 0.2s ease;
+  display: block;
+  margin: 0 auto;
 }
 
 .gallery img:hover {
