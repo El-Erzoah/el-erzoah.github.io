@@ -7,7 +7,7 @@ venue: "George Mason University"
 date: 2025-08-25
 ---
 
-
+## Description
 
 Calculus I introduces the fundamental concepts of differential and integral calculus.
 
