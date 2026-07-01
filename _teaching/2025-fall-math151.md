@@ -2,9 +2,11 @@
 title: "Math 151 – Calculus I"
 collection: teaching
 type: "Graduate Teaching Assistant"
-permalink: /teaching/math151/
+department: "Mathematics"
 venue: "George Mason University"
-date: 2025-08-25
+semester: "Fall"
+year: 2025
+permalink: /teaching/math151/
 ---
 
 ## Description
