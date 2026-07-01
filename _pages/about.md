@@ -25,6 +25,12 @@ My current work includes:
 - Parameter estimation using Physics-Informed Neural Networks (PINNs) and Kolmogorov–Arnold Networks (KANs)
 - Graph-theoretic analysis of biological networks
 
+Curriculum Vitae
+======
+You can download my current Curriculum Vitae using the link below.
+
+📥 **[Download my CV](/files/cv_erzoah.pdf)**
+
 Contact
 ======
 
