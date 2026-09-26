@@ -5,7 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 
-Below are selected moments from conferences, teaching, and research activities.
+Below are selected moments from conferences, talks, teaching, and research activities.
 
 <div class="gallery">
 
