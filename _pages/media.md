@@ -21,6 +21,13 @@ Below are selected moments from conferences, talks, teaching, and research activ
     <figcaption></figcaption>
   </figure>
 
+  <figure>
+    <img src="/images/StReet.jpeg" onclick="openLightbox(this)">
+    <figcaption>
+      This is me after my StReeTs talk. Such a relieve 😂!!
+    </figcaption>
+  </figure>
+
 </div>
 
 
@@ -41,7 +48,7 @@ Below are selected moments from conferences, talks, teaching, and research activ
       <source src="/videos/vid.mp4" type="video/mp4">
     </video>
 
-    <div class="play-button">▶</div>
+    <div class="play-button">▶</div> 
 
     <p>When your seat is randomly picked and all you can do is spin and pray 😂🎯 …and somehow it lands on BLANKET! 🥳🏆 COS College branded blanket won on Aug. 21, 2026🎉.
 </p>
