@@ -24,7 +24,7 @@ Below are selected moments from conferences, talks, teaching, and research activ
   <figure>
     <img src="/images/StReet.jpeg" onclick="openLightbox(this)">
     <figcaption>
-      This is me after my StReeTs talk. What a relieve 😂!!
+      This is me after my StReeTs talk on Sept. 25, 2026.. What a relieve 😂!!
     </figcaption>
   </figure>
 
